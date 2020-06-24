@@ -1,0 +1,2 @@
+# Predicting-Stock-Prices-Assessing-Risk-with-CAPM
+The goal of this study is to use predictive modeling to predict stock prices for the upcoming week using the previous week’s data. We also want to evaluate risk levels of these same stocks. The models that will be used for testing are a simple linear model, a decision tree model, and a support vector machine model. Lastly, the level of risk for each company will be determined using a capital asset pricing model (CAPM) to describe the relationship the observed returns have with unplanned systemic risk.
